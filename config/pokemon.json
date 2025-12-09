@@ -1,0 +1,29 @@
+{
+	"Bulbasaur": {
+		"type": "Grass",
+		"baseHealth": 45,
+		"baseAttack": 49,
+		"baseDefense": 49,
+		"baseSpeed": 45,
+		"baseExperience": 64,
+		"starterMoves": ["Tackle", "Vine Whip"]
+	},
+	"Charmander": {
+		"type": "Fire",
+		"baseHealth": 39,
+		"baseAttack": 52,
+		"baseDefense": 43,
+		"baseSpeed": 65,
+		"baseExperience": 62,
+		"starterMoves": ["Tackle", "Ember"]
+	},
+	"Squirtle": {
+		"type": "Water",
+		"baseHealth": 44,
+		"baseAttack": 48,
+		"baseDefense": 65,
+		"baseSpeed": 43,
+		"baseExperience": 63,
+		"starterMoves": ["Tackle", "Water Gun"]
+	}
+}

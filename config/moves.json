@@ -1,0 +1,18 @@
+{
+	"Tackle": {
+		"type": "Normal",
+		"basePower": 40
+	},
+	"Ember": {
+		"type": "Fire",
+		"basePower": 40
+	},
+	"Water Gun": {
+		"type": "Water",
+		"basePower": 40
+	},
+	"Vine Whip": {
+		"type": "Grass",
+		"basePower": 40
+	}
+}

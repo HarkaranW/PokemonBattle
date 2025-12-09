@@ -1,0 +1,16 @@
+{
+	"town": [
+		{
+			"character": "guy",
+			"firstSprite": { "x": 18, "y": 434 },
+			"totalSprites": 12
+		}
+	],
+	"house": [
+		{
+			"character": "mom",
+			"firstSprite": { "x": 18, "y": 284 },
+			"totalSprites": 4
+		}
+	]
+}
